@@ -1,2 +1,2 @@
 # project-booksManagementGroup23
-Vishal Kale,Jai sharma,Saiprasad Rathod ,Pratidnya Rathod
+Vishal Kale,Jai sharma,Saiprasad Rathod ,Pratidnya Patil
