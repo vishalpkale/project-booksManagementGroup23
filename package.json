@@ -1,0 +1,19 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "Priynka Patil,Vishal Kale,Saiprasad Rathod,Jai Sharma we are teammates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalpkale/project-booksManagementGroup23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalpkale/project-booksManagementGroup23/issues"
+  },
+  "homepage": "https://github.com/vishalpkale/project-booksManagementGroup23#readme"
+}
